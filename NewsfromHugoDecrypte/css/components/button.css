@@ -1,0 +1,19 @@
+.btn-orange{
+	background: rgb(251,67,162);
+	background: linear-gradient(90deg, rgba(251,67,162,1) 0%, rgba(250,176,7,1) 100%);
+	border-radius: 4px;
+	padding: 15px 20px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-purple{
+	background: linear-gradient(to right, rgba(251,67,162,0.5), rgba(250,176,7,0.5));
+	opacity: 100%;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: rgb(93, 63, 165);
+	font-weight: bold;
+	
+
+}
